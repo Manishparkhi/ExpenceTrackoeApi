@@ -18,7 +18,7 @@
 
 * Users :
 
-        + SignUp User
+        1. SignUp User
         2. SignIn User
         2. Get Users (All and by id)
         3. Delete Users By Id
@@ -45,25 +45,15 @@
 ## models 
 + models - Theire Are Two Models
  * Users
-   + userName.
-   + Email.
-   + password.
-   + Product
+  + userName.
+  + Email.
+  + password.
+  + Product
   + productId.
   + productDescription.
   + productPrice.
   + ProductDateAndTime.
 
- 
-
- * Product -
-
-        + Add Product
-        + Delete Product by ID
-        + Update Product by Id ;
-        + Get Product by userId , get-Product-by-timespan, 
-           get-Product-on-particular-date-time,
-           get-total-Product-in-a-month
 
 ## Project Summary           
   * Different EndPoints is been provided, for ex - Get Product by userId , 2) get-Product-by-timespan 
